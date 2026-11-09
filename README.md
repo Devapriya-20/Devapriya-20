@@ -1,25 +1,29 @@
 <div align="center">
 
-  <!-- Animated Header Banner / Intro -->
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&width=435&lines=Hi+%F0%9F%90%8B%2C+I'm+Devapriya+V.;Data+Science+%26+ML+Enthusiast;Building+Smart+Data+Pipelines;Cybersecurity+%26+App+Dev" alt="Typing SVG" /></h1>
+  <!-- Scaled & Centered Professional Tech Header -->
+  <img src="https://raw.githubusercontent.com/Devapriya-20/Devapriya-20/main/tech-header.png" alt="Devapriya V. Tech & Data Science Header" width="85%" />
 
-  <p><b>B.CA Student @ St. Claret College, Bengaluru | Data Science • Machine Learning • Analytics • AI ML</b></p>
+  <br><br>
 
-  <!-- Dynamic Badges -->
+  <!-- Dynamic Typing Animation -->
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&width=480&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Devapriya+V.;Data+Science+%26+ML+Enthusiast;Building+Intelligent+Systems;Exploring+Cybersecurity" alt="Typing Animation" /></h1>
+
+  <p><b>Undergraduate Computer Applications Student @ St. Claret College, Bengaluru</b></p>
+  <p><i>Transforming complex data pipelines into actionable, intelligent insights.</i></p>
+
+  <!-- Interactive Badges -->
   <p>
-    <a href="https://github.com/Devapriya-20"><img src="https://img.shields.io/github/followers/Devapriya-20?style=for-the-badge&logo=github&color=4F46E5" alt="GitHub Followers"></a>
-    <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Focus">
-    <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-FF9933?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Analytics-6366F1?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Base-Bengaluru%2C%20India-EC4899?style=for-the-badge&logo=google-maps&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ Operational Status
 
 ```yaml
-Current_Status: Undergraduate Student (BCA @ St. Claret College)
-Academic_Focus: Data Science, Time-Series Analysis, Applied Machine Learning, Cybersecurity
-Core_Goal: Building intelligent, data-driven systems & real-time analytics pipelines
-Tech_Motto: "Turning complex datasets into actionable computational insights."
+Operational_Focus: Engineered data pipelines and deep predictive models.
+Core_Interests: Machine Learning, Deep Learning, Statistical Modeling, and Dashboards.
+Motto: "Turning raw data into impactful intelligent applications."
