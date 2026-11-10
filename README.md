@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Scaled & Centered Professional Tech Header -->
-  <img src="https://raw.githubusercontent.com/Devapriya-20/Devapriya-20/main/tech-header.png" alt="Devapriya V. Tech & Data Science Header" width="85%" />
+  <img src="https://raw.githubusercontent.com/Devapriya-20/Devapriya-20/main/devapriya-readme.svg" alt="Devapriya V. Tech & Data Science Header" width="85%" />
 
   <br><br>
 
